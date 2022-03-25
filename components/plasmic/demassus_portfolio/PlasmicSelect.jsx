@@ -499,6 +499,7 @@ function PlasmicSelect__RenderFunc(props) {
                     )
                   }
                 )}
+                navMenuVariants={["uxWriting"]}
               />
 
               <NavMenuItemBase
