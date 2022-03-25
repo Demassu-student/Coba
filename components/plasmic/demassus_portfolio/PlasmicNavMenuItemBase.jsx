@@ -69,6 +69,7 @@ function PlasmicNavMenuItemBase__RenderFunc(props) {
         }
       )}
       component={Link}
+      href={"/ux-writing"}
       platform={"nextjs"}
       target={
         hasVariant(variants, "navMenuVariants", "gd")

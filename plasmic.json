@@ -161,6 +161,19 @@
           "scheme": "blackbox",
           "componentType": "component",
           "plumeType": "triggered-overlay"
+        },
+        {
+          "id": "vG2bSV-ei8",
+          "name": "UxWriting",
+          "type": "managed",
+          "projectId": "vrXCB8dxA4nVS6MjHefASJ",
+          "renderModuleFilePath": "plasmic/demassus_portfolio/PlasmicUxWriting.jsx",
+          "importSpec": {
+            "modulePath": "../pages/ux-writing.jsx"
+          },
+          "cssFilePath": "plasmic/demassus_portfolio/PlasmicUxWriting.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
         }
       ],
       "icons": [
